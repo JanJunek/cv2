@@ -50,7 +50,13 @@ public class Main {
             printStar(x--);
         }
     }
+
+//VNITRNI TRIDY
 //PRIVATE..
 //VLAKNO
 //XML otazky - co to je - jendoduchy znackovaci jazyk
 //VCS - co to je, k cemu to je
+//PROTOKOL - standart, podle ktereho probiha komunikace (SSH, HTTP...)
+//SOCKET - trida, ktera implementuje sitovou komunikaci
+//cv1 a cv2
+//doplnovani a vybirani moznosti
